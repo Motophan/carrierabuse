@@ -37,7 +37,7 @@ Email: abuse@zayo.com, CanCustomerService@Allstream.com, UScustomerservice@allst
 
 “AMERITECH ILLINOIS” report abuse:
 Email:  abuse@att.net
-Note: Ameritech Illinois is a sub-sub-sub division of ATT.  Not suspicious at all!!
+Note: Ameritech Illinois is a division of ATT. What?
 
 
 “ASTOUND BROADBAND” report abuse:
@@ -82,7 +82,7 @@ Email: Windstream.NetworkAbuse@Windstream.com
 
 “CenturyLink” (formerly “Level 3 Communications”) report abuse:
 Email: security.feedback@level3.com, abuse@level3.com, abuse@centurylink.com, abuse@level3.com, support@centurylink.com, support@level3.com
-Notes: This carrier stopped investigating abuse very recently. Consider tweeting them, that works better for some reason. 
+Notes: This carrier stopped investigating abuse very recently. Consider tweeting them, that works better for some reason. Autofile an FCC report and send some tweets to centurylink as they dont really take abusemails anymore. Safe haven for scammers. 
 
 “Chatr” report abuse:
 Email: officeofpresident@chatrmobile.com, abuse@chatrmobile.com
@@ -190,6 +190,7 @@ Email: kim@advancedwireless.us, abuse@advancedwireless.us, support@advancedwirel
 
 “Level 3 Communications” (Currently is CenturyLink) report abuse:
 Email: abuse@level3.com, abuse@centurylink.com, abuse@level3.com, support@centurylink.com, fraudoperations@centurylink.com
+Notes: This carrier stopped investigating abuse very recently. Consider tweeting them, that works better for some reason. Autofile an FCC report and send some tweets to centurylink as they dont really take abusemails anymore. Safe haven for scammers. 
 
 
 “LIGHTWAVE COMMUNICATIONS, LLC – MD” report abuse:
@@ -197,7 +198,7 @@ unknown, please help me !
 
 “Local Access LLC” report abuse:
 Email: subpoena@localaccessllc.com, sales@localaccessllc.com, report@peerlessnetwork.com, CourtOrders@subsentio.com, LELiaison@subsentio.com, Abuse@subsentio.com, abuse@peerlessnetwork.com, trouble@peerlessnetwork.com
-
+Note: do not email lawenforcement without a preface that you want to help enforce the laws but are NOT a member of law enforcement. (unless you are, and please contact me I want to talk to you about autofiling scam calls and can setup software to do it)
 
 “Localphone 360 Networks SVR” report abuse:
 Email: dids@voxbeam.com
