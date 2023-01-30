@@ -335,7 +335,7 @@ Email: charityh@sprint.net, abuse@sprint.net, security@sprint.net, yi.chu@sprint
 Notes: extremly slow for abuse reports if at all. Had a IRS number on their network for 19 days running continiously. These guys respond to tweets but need to somehow fit "its not a spoof I can call it" in 144 characters. 
 
 “T-Mobile” report abuse:
-Email:  Abuse@t–mobile.com, KeLevine@tracfone.com, abuse@tracfone.com
+Email:  copyrightagent@t-mobile.com, KeLevine@tracfone.com (Low for abuse reports and needs to be egged several times in some cases)
 
 
 “TC Systems” report abuse:
